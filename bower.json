@@ -9,7 +9,7 @@
     "**/.*"
   ],
   "dependencies": {
-    "polymer": "Polymer/polymer#0.5.6",
+    "polymer": "Polymer/polymer",
     "momentjs": "~2.6.0"
   }
 }
